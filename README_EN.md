@@ -1,7 +1,5 @@
 # Yandex Music for Fedora
 
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/username/yandex-music-fedora)  
-
 A simple guide to installing the official Yandex Music client in `.deb` format on Fedora-like operating systems (e.g., Fedora, Nobara, Ultramarine). Since Fedora uses RPM packages, this guide describes manual extraction and installation of the `.deb` package.
 
 **Note:** This guide is intended for educational purposes. Always download files from official sources to avoid security risks.
